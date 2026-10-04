@@ -28,4 +28,4 @@ A responsive page with an NFT card component, a list of cards with animations an
 Based on the [NFT preview card](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) challenge from Frontend Mentor.
 
 ## Author
-**Chico** - [GitHub](https://github.com/YOUR-USER)
+**Itada08** - [GitHub](https://github.com/YOUR-USER)
